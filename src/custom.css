@@ -1,0 +1,4 @@
+.circle{
+  transition: left 0.5s;
+  left: 0%;
+}
