@@ -3,7 +3,7 @@ const songData = [
     "id": "1",
     "title": "Bollywood Chillout",
     "description": "Relaxing Hindi melodies & unplugged vibes",
-    "coverImage": "https://images.unsplash.com/photo-1613546201330-cd67e6e63c2e?auto=format&fit=crop&w=800&q=80",
+    "coverImage": "./assets/images/bollywood central.jpeg",
     "songs": [
       { "title": "Shayad", "artist": "Arijit Singh" },
       { "title": "Tum Mile", "artist": "Neeraj Shridhar" },
@@ -38,7 +38,7 @@ const songData = [
     "id": "3",
     "title": "Romantic Mix – Hindi × English × Punjabi",
     "description": "Love songs across languages",
-    "coverImage": "https://images.unsplash.com/photo-1503354205826-c77b5e81384a?auto=format&fit=crop&w=800&q=80",
+    "coverImage": "./assets/images/playlist 3.jpeg",
     "songs": [
       { "title": "Perfect", "artist": "Ed Sheeran" },
       { "title": "Love Me Like You Do", "artist": "Ellie Goulding" },
@@ -55,7 +55,7 @@ const songData = [
     "id": "4",
     "title": "Desi Swag Ride",
     "description": "Car vibes with Punjabi, Hindi & hip-hop beats",
-    "coverImage": "https://images.unsplash.com/photo-1602526218851-bd048feebaf1?auto=format&fit=crop&w=800&q=80",
+    "coverImage": "./assets/images/playlist 4.jpeg",
     "songs": [
       { "title": "No Love", "artist": "Shubh" },
       { "title": "Proper Patola", "artist": "Diljit Dosanjh, Badshah" },
